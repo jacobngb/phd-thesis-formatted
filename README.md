@@ -12,11 +12,15 @@ Les données, les équations et les graphiques d'origine sont préservés. Les g
 
 La dédicace et les remerciements sont des propositions à personnaliser, car les documents sources n'en contenaient pas. Le résumé et l'abstract ont été rédigés à partir du manuscrit. Le fond et la numérotation d'origine sont conservés, sans réécriture des éventuelles incohérences de fond ou de renvoi.
 
-## Earlier formatted English version
+## Version anglaise complète / Complete English version
 
-**[Download the formatted English thesis (.docx, approximately 40 MB)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/PhD_Thesis_Formatted.docx)**
+**[Télécharger la version anglaise complète / Download the complete English thesis (.docx, approximately 36.3 MB)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/PhD_Thesis_Formatted.docx)**
 
-This earlier version is organized into four chapters (Introduction, Literature Review, Findings and Results, Discussion), followed by a General Conclusion. The French document above is based on the subsequently supplied corrected manuscript and retains that manuscript's structure.
+The English version now includes the title page, dedication, acknowledgements, English abstract, French résumé, keywords, table of contents, abbreviation and acronym glossary, list of figures and list of tables. The contents stop at three heading levels: **1, 1.1 and 1.1.1**. Preliminary pages use Roman numerals; the body starts at Arabic page 1.
+
+The existing English manuscript, graphics, equations and four-chapter structure (Introduction, Literature Review, Findings and Results, Discussion, followed by a General Conclusion) are preserved. The French document above is based on the subsequently supplied corrected manuscript and retains that manuscript's own structure.
+
+The dedication and acknowledgements are proposed texts to personalise, since no originals were supplied. The abstract and résumé were drafted from the English manuscript's reported evidence.
 
 ## Télécharger sur téléphone / Download on a phone
 
