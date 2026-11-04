@@ -2,6 +2,14 @@
 
 Ce dépôt public héberge les versions Word de la thèse et le PDF de référence de l'édition française de 285 pages.
 
+## Version française académique — 290 pages
+
+**[Télécharger la version française de 290 pages (.docx, environ 33,5 Mo)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/These_Francaise_Academique_290_pages.docx)**
+
+Cette version est allégée sans réécriture du texte. L'introduction, le chapitre 1, les formalismes mathématiques et les statistiques sont préservés. La table des matières est limitée aux trois niveaux **1, 1.1 et 1.1.1**. Le PDF de contrôle compte **290 pages au total, dont 19 pages d'annexes**.
+
+Le Word reste modifiable ; sa pagination peut varier selon le logiciel, les polices disponibles et les paramètres d'impression. Les autres éditions ci-dessous restent disponibles séparément.
+
 ## Version française académique — 285 pages
 
 **[Télécharger la version française de 285 pages (.docx, environ 33,5 Mo)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/These_Francaise_285_Pages.docx)**
