@@ -14,13 +14,13 @@ La dédicace et les remerciements sont des propositions à personnaliser, car le
 
 ## Version anglaise complète / Complete English version
 
-**[Télécharger la version anglaise complète / Download the complete English thesis (.docx, approximately 36.3 MB)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/PhD_Thesis_Formatted.docx)**
+**[Télécharger la version anglaise complète / Download the complete English thesis (.docx, approximately 33.4 MB)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/PhD_Thesis_Formatted.docx)**
 
 The English version now includes the title page, dedication, acknowledgements, English abstract, French résumé, keywords, table of contents, abbreviation and acronym glossary, list of figures and list of tables. The contents stop at three heading levels: **1, 1.1 and 1.1.1**. Preliminary pages use Roman numerals; the body starts at Arabic page 1.
 
-The existing English manuscript, graphics, equations and four-chapter structure (Introduction, Literature Review, Findings and Results, Discussion, followed by a General Conclusion) are preserved. The French document above is based on the subsequently supplied corrected manuscript and retains that manuscript's own structure.
+This English file is based on the newly supplied `SEMICOPY_Corrected_Numbered-1.docx`, which contains the same corrected manuscript used for the French edition. Its general introduction, existing chapter structure, research content, references, appendices, original graphics and equations are preserved. Table text is formatted at 11 points. This current-manuscript edition replaces the earlier reorganised English download.
 
-The dedication and acknowledgements are proposed texts to personalise, since no originals were supplied. The abstract and résumé were drafted from the English manuscript's reported evidence.
+The dedication and acknowledgements are proposed texts to personalise, since no originals were supplied. The abstract and résumé summarise the corrected manuscript's reported evidence.
 
 ## Télécharger sur téléphone / Download on a phone
 
