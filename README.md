@@ -1,16 +1,26 @@
 # Thèse de doctorat / PhD Thesis
 
-Ce dépôt public héberge les versions Word de la thèse.
+Ce dépôt public héberge les versions Word de la thèse et le PDF de référence de l'édition française de 285 pages.
 
-## Version française académique
+## Version française académique — 285 pages
 
-**[Télécharger la version française complète (.docx, environ 33,5 Mo)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/These_Francaise_Academique_Complete.docx)**
+**[Télécharger la version française de 285 pages (.docx, environ 33,5 Mo)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/These_Francaise_285_Pages.docx)**
+
+**[Télécharger le PDF de référence à pagination fixe (.pdf, environ 12,4 Mo)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/These_Francaise_285_Pages.pdf)**
+
+Cette édition compte **285 pages au total, pages préliminaires comprises, dont 11 pages d'annexes**. Les annexes occupent les pages physiques 275 à 285, numérotées 257 à 267 dans le corps du document. La table des matières est limitée aux trois niveaux **1, 1.1 et 1.1.1** ; les titres de niveau inférieur restent présents dans le texte.
+
+La réduction de 315 à 285 pages repose uniquement sur la mise en page : suppression de paragraphes vides et de sauts de page inutiles, ajustement des espacements et optimisation des tableaux des annexes, toujours en taille 11. **Aucun texte du manuscrit n'a été supprimé ni paraphrasé. L'introduction et le chapitre 1 sont conservés intégralement, y compris leur mise en forme ; les formalismes mathématiques, les statistiques et les graphiques restent inchangés.**
+
+Le PDF fixe la pagination à 285 pages. Le Word reste modifiable ; sa pagination peut varier selon le logiciel, les polices disponibles et les paramètres d'impression.
 
 Cette version traduit le manuscrit corrigé récemment fourni. Elle comprend la page de titre, la dédicace, les remerciements, le résumé, l'abstract, la table des matières, la liste des sigles et abréviations, les listes des figures et des tableaux, ainsi que le corps de la thèse, les références et les annexes.
 
 Les données, les équations et les graphiques d'origine sont préservés. Les graphiques en anglais n'ont pas été traduits ; les quelques schémas déjà en français dans la source restent inchangés. Les tableaux de données sont composés en taille 11. La pagination des pages préliminaires est en chiffres romains et celle du corps de la thèse en chiffres arabes.
 
 La dédicace et les remerciements sont des propositions à personnaliser, car les documents sources n'en contenaient pas. Le résumé et l'abstract ont été rédigés à partir du manuscrit. Le fond et la numérotation d'origine sont conservés, sans réécriture des éventuelles incohérences de fond ou de renvoi.
+
+L'[édition française antérieure de 315 pages](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/These_Francaise_Academique_Complete.docx) reste disponible séparément.
 
 ## Version anglaise complète / Complete English version
 
