@@ -2,6 +2,29 @@
 
 Ce dépôt public héberge les versions Word de la thèse, le PDF de référence de l'édition française de 285 pages et un outil de contrôle des agrégats publiés.
 
+## MAB-FRENCH-5 — Réduction ciblée, éléments scientifiques préservés
+
+**[Télécharger le Word réduit (.docx, environ 38,3 Mo)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/MAB_FRENCH_5_Reduction_Ciblee.docx)**
+
+Cette édition reprend MAB-FRENCH-4 et ramène le rendu de référence de **326 à 278 pages**, soit **48 pages de moins**. La réduction repose sur une prose resserrée et sur la suppression ou le regroupement de répétitions, sans diminuer la police ni l'interligne.
+
+| Partie | Pages demandées | Pages obtenues |
+|---|---:|---:|
+| Introduction générale | 14 | **14** |
+| Chapitre 1 — Revue de la littérature | 11 | **11** |
+| Chapitre 2 — Cadre conceptuel et théorique | 45 | **45** |
+| Chapitre 3 — Méthodologie de la recherche | 20 | **20** |
+| Chapitre 4 — Constats et résultats | 105 | **105** |
+| Annexes, page d'ouverture comprise | 15 | **25** |
+
+Les annexes passent de **28 à 25 pages**. La cible de 15 pages n'a pas été imposée au détriment de leur contenu : un essai interne retirant même toute leur prose occupait encore **23 pages**, avec les tableaux, images, formules, codes et leur présentation conservés. La version livrée maintient aussi les explications nécessaires aux instruments, au consentement, au codage, aux déductions et aux limites des preuves disponibles. Une note de codage a été regroupée avec le paragraphe précédant son tableau pour éviter une page presque vide.
+
+Les **76 tableaux**, les **51 objets mathématiques**, les valeurs statistiques publiées, les algorithmes et les **douze blocs de code** sont inchangés. Les **72 images** conservent leurs fichiers, dimensions d'affichage et recadrages d'origine, sans compression supplémentaire ; les diagrammes du chapitre 1 restent en anglais. La police, l'interligne **1,5** du texte et les exceptions existantes pour tableaux, formules et algorithmes sont préservés. Les questions, objectifs, hypothèses et la lacune de recherche restent intacts ; les réserves scientifiques et les limites de provenance explicitées dans MAB-FRENCH-4 sont maintenues. Aucune donnée empirique n'a été créée ou remplacée par une simulation.
+
+Le **chapitre 5 (30 pages)**, la **conclusion générale (3 pages)** et la **bibliographie (7 pages)** restent inchangés. Les préliminaires occupent **18 pages**. Les **323 renvois de pagination** du sommaire et des listes sont actualisés ; la table des matières reste limitée à trois niveaux. Le rendu ne comporte aucune page blanche. Les espaces nécessaires aux grands diagrammes entiers et aux changements d'orientation sont conservés.
+
+Ces volumes correspondent au **rendu de référence** : la pagination du Word peut varier selon le logiciel et les polices disponibles. Les éditions précédentes restent accessibles ci-dessous.
+
 ## MAB-FRENCH-4 — Clarifications scientifiques A, B et C
 
 **[Télécharger le Word corrigé (.docx, environ 38,3 Mo)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/MAB_FRENCH_4_Corrections_Scientifiques_ABC.docx)**
