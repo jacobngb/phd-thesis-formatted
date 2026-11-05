@@ -2,6 +2,14 @@
 
 Ce dépôt public héberge les versions Word de la thèse et le PDF de référence de l'édition française de 285 pages.
 
+## MAB-FRENCH-1 — Renvois aux figures et tableaux corrigés
+
+**[Télécharger le Word corrigé (.docx, environ 38,1 Mo)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/MAB_FRENCH_1_Renvois_Corriges.docx)**
+
+Cette copie intègre **29 corrections de renvois**, notamment vers la figure 1.12 et le tableau 2.4, sans modifier les formules, les statistiques ni les images. Les numéros de page du sommaire et des listes ont été actualisés. Cinq commentaires Word signalent trois renvois sans tableau identifiable et deux doublons de numérotation à valider.
+
+Le rendu de contrôle compte **300 pages**. La pagination du Word peut varier selon le logiciel et les polices disponibles. Les éditions antérieures restent disponibles ci-dessous.
+
 ## Version française académique — 290 pages
 
 **[Télécharger la version française de 290 pages (.docx, environ 33,5 Mo)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/These_Francaise_Academique_290_pages.docx)**
