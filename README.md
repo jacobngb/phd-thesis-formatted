@@ -2,6 +2,20 @@
 
 Ce dépôt public héberge les versions Word de la thèse et le PDF de référence de l'édition française de 285 pages.
 
+## MAB-FRENCH-3 — Revue de la littérature et harmonisation
+
+**[Télécharger le Word harmonisé (.docx, environ 38,3 Mo)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/MAB_FRENCH_3_Revue_Litterature_Harmonisee.docx)**
+
+Cette édition reprend le nouveau manuscrit fourni, avec son chapitre de revue de la littérature traduit en français. La thèse comprend désormais **cinq chapitres**. La subdivision du travail, les titres et les renvois sont réadaptés ; la synthèse des travaux antérieurs et la conclusion générale sont alignées sur la lacune scientifique et de conception de la section **0.2.2**, dont le texte est préservé. Les titres originaux des travaux cités sont conservés pour faciliter leur identification bibliographique.
+
+Le texte est en **13 points et interligne 1,5**, y compris le sommaire, les légendes, la bibliographie et la prose des annexes. Les tableaux, les formules et les algorithmes conservent leur présentation adaptée. La table des matières s'arrête à trois niveaux ; les **321 références de pagination** du sommaire et des listes sont actualisées.
+
+Les **72 images** conservent leurs fichiers originaux, leurs dimensions d'affichage et leurs recadrages, sans compression supplémentaire. Les diagrammes du nouveau chapitre 1 restent **en anglais**. Les **41 objets mathématiques**, les données des **75 tableaux** et les douze blocs de code sont préservés ; seuls les numéros d'équation et les renvois nécessaires ont été harmonisés.
+
+Le rendu de référence compte **320 pages**, sans page blanche, avec une pagination préliminaire romaine puis arabe pour le corps du travail. Les grands diagrammes restent entiers, et les noms des interfaces sont regroupés avec leurs adresses pour éviter des captures isolées. La pagination du Word peut varier selon le logiciel et les polices disponibles.
+
+Les doublons de numérotation et les renvois à des tableaux ou à un chapitre absents ont été corrigés sans inventer de contenu. Les notices doctorales manquantes et les informations d'actualité nécessitant des sources primaires sont signalées dans les commentaires Word. Les éditions antérieures restent disponibles ci-dessous.
+
 ## MAB-FRENCH-2 — Pagination professionnelle et interligne 1,5
 
 **[Télécharger le Word mis en page (.docx, environ 38,1 Mo)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/MAB_FRENCH_2_Pagination_Professionnelle.docx)**
