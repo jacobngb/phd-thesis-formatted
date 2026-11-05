@@ -1,6 +1,34 @@
 # Thèse de doctorat / PhD Thesis
 
-Ce dépôt public héberge les versions Word de la thèse et le PDF de référence de l'édition française de 285 pages.
+Ce dépôt public héberge les versions Word de la thèse, le PDF de référence de l'édition française de 285 pages et un outil de contrôle des agrégats publiés.
+
+## MAB-FRENCH-4 — Clarifications scientifiques A, B et C
+
+**[Télécharger le Word corrigé (.docx, environ 38,3 Mo)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/MAB_FRENCH_4_Corrections_Scientifiques_ABC.docx)**
+
+Cette édition prolonge MAB-FRENCH-3 par des corrections ciblées du formalisme, du statut des expérimentations et de la traçabilité des données. Les expressions manquantes n'ayant pas été retrouvées dans les sources disponibles, les compléments distinguent **relations déductibles**, **conventions proposées** et **paramètres historiques non documentés**. La proposition d'existence d'une partition optimale est explicitement conditionnelle ; elle ne démontre pas l'optimalité empirique du prototype.
+
+Le total des quinze poids du tableau 2.8 est corrigé de **18 à 19**, sans modifier les poids individuels ni les résultats rapportés. Sous une agrégation linéaire commune, les poids **0.40, 0.30, 0.20 et 0.10** reproduisent les scores de granularité affichés. Leur reconstruction n'est pas une preuve des paramètres historiques : les arrondis permettent d'autres pondérations compatibles. Les normalisations des scores de décision, les ratios de couplage, les pourcentages du questionnaire et les indices des experts sont explicités.
+
+La méthodologie distingue les essais fonctionnels et HTTP rapportés, les résultats modélisés et les tests événementiels, de panne, de compensation et de convergence restant à réaliser ou à documenter directement. La matrice C.3 est réalignée sur les objectifs de l'introduction. L'annexe **C.4** présente les déductions, leurs hypothèses et les pièces nécessaires à un audit complet. Les pourcentages des experts désignent des indices du maximum de l'échelle, **pas des taux d'approbation**.
+
+**Aucune réponse individuelle, note d'expert, transcription ou trace d'essai manquante n'a été inventée.** La matrice d'enquête, les formulaires remplis, les règles d'agrégation et les journaux originaux restent nécessaires pour authentifier les résultats ; leur absence ne peut être compensée par un simple contrôle des agrégats.
+
+Les **72 images**, leurs dimensions et leurs recadrages sont conservés sans compression supplémentaire. Les **41 objets mathématiques d'origine** et les douze blocs de code sont inchangés ; dix expressions mathématiques modifiables sont ajoutées avec leur statut explicite. Les valeurs d'enquête, les moyennes d'experts et les mesures du prototype sont préservées. Le texte reste en **13 points et interligne 1,5**, hors tableaux, formules et algorithmes.
+
+Le rendu de référence compte **326 pages**, sans page blanche. Les **323 renvois de pagination** du sommaire et des listes sont actualisés, avec une table des matières limitée à trois niveaux. La pagination du Word peut varier selon le logiciel et les polices disponibles. Les éditions antérieures restent accessibles.
+
+### Contrôle reproductible des agrégats
+
+**[Télécharger le script de contrôle (.py)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/verifier_agregats_abc.py)**
+
+Avec Python 3.9 ou ultérieur, sans dépendance externe, placer le script et le Word dans le même dossier puis exécuter :
+
+```bash
+python3 verifier_agregats_abc.py MAB_FRENCH_4_Corrections_Scientifiques_ABC.docx
+```
+
+Le script lit les tableaux du Word et produit un rapport JSON de contrôle arithmétique, avec les hypothèses de reconstruction et les limites d'identification. **Ce nouvel outil n'est pas le script R original de l'enquête**, ne reconstitue pas les données individuelles et n'exécute aucun test du prototype.
 
 ## MAB-FRENCH-3 — Revue de la littérature et harmonisation
 
