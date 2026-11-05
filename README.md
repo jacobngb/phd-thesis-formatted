@@ -2,6 +2,18 @@
 
 Ce dépôt public héberge les versions Word de la thèse et le PDF de référence de l'édition française de 285 pages.
 
+## MAB-FRENCH-2 — Pagination professionnelle et interligne 1,5
+
+**[Télécharger le Word mis en page (.docx, environ 38,1 Mo)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/MAB_FRENCH_2_Pagination_Professionnelle.docx)**
+
+Le texte courant et la bibliographie sont en **interligne 1,5**. Les tableaux, les formules, les présentations statistiques et les annexes conservent des espacements adaptés. Les paragraphes vides et les sauts inutiles ont été supprimés ; l'ouverture du chapitre 1 n'est plus isolée. Les légendes restent avec leurs figures, et les douze blocs de code des annexes tiennent chacun sur une seule page.
+
+Cette édition reprend les corrections de renvois précédentes, sans réécrire le contenu scientifique ni modifier les données des **75 tableaux**, les **41 objets mathématiques** ou les **70 illustrations**. Les fichiers des illustrations, leurs dimensions et leurs recadrages sont conservés à l'identique, sans compression supplémentaire. Les **315 renvois de pagination** du sommaire et des listes sont actualisés ; l'annexe E figure désormais au sommaire.
+
+La dédicace, les remerciements et le résumé français étaient sans texte dans le fichier fourni : leurs pages réservées et leurs entrées du sommaire ont été retirées, sans inventer de contenu. Un commentaire Word explique ce retrait ; les cinq remarques de contrôle des renvois restent disponibles.
+
+Le rendu de référence compte **297 pages**, sans page blanche. Les espaces nécessaires aux grands diagrammes et aux changements de chapitre ou d'orientation sont préservés. La pagination du Word peut varier selon le logiciel et les polices disponibles. Cette édition avec interligne 1,5 est distincte de l'édition compacte de 290 pages ; les versions antérieures ne sont pas remplacées.
+
 ## MAB-FRENCH-1 — Renvois aux figures et tableaux corrigés
 
 **[Télécharger le Word corrigé (.docx, environ 38,1 Mo)](https://raw.githubusercontent.com/jacobngb/phd-thesis-formatted/main/MAB_FRENCH_1_Renvois_Corriges.docx)**
